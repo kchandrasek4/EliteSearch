@@ -11,4 +11,5 @@ Press 𝗖𝘁𝗿𝗹+𝗦𝗵𝗶𝗳𝘁+𝗦, type once, and 𝗕𝗢𝗢�
 
 𝘛𝘩𝘦 𝘣𝘦𝘴𝘵 𝘱𝘢𝘳𝘵? All three windows pop up side-by-side for the ultimate power-search experience. No more tab-dancing or window-hunting – just a streamlined productivity experience.
 
+REMEMBER: You need to download AutoHotkey and then rune the .ahk file for the hotkey to be recognized.
 Want to supercharge your workflow with 𝘌𝘭𝘪𝘵𝘦 𝘚𝘦𝘢𝘳𝘤𝘩? DM me if you have trouble setting it up.
